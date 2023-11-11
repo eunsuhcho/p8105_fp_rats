@@ -24,9 +24,11 @@ population density, income level, and stray cat density.
 
 ### Intended final products
 
-*Dashboards of the following: * Rat sighting vs population size by
-neighborhood \* Rat sighting vs income level by neighborhood \* Rat
-density map over years \* Rat vs cat density by neighborhood
+- Dashboards of the following:
+- Rat sighting vs population size by neighborhood
+- Rat sighting vs income level by neighborhood
+- Rat density map over years
+- Rat vs cat density by neighborhood
 
 ### Anticipated data sources
 
@@ -35,22 +37,36 @@ density map over years \* Rat vs cat density by neighborhood
 
 ### Planned Analyses
 
-*General rat sighting analyses * Change in number of rat sightings by
-year \* Change in average number of rat sightings per month \* Analysis
-of rats by neighborhood
+- General rat sighting analyses
 
-*Analysis of neighborhood rat sightings compared to income level *
-Compare income level dataset with rat sighting dataset to assess income
-to rat \* Compare borough average income to average annual rat sightings
-\* Design a map comparing neighborhood imcome to rat sightings with
-latitude and longitude data
+- Change in number of rat sightings by year
 
-*Analysis of population density to rat sightings * Population density
-compared to rat sighting density by neighborhood \* Borough population
-density to average annual rat sightings
+- Change in average number of rat sightings per month
 
-*Tentative feral cat colony to rat sighting analysis * Distribution of
-feral cat colonies to rat insights \* Aim is to see if a correlation
-exists between higher cat colony density and lower rat sightings \*
-Assess the relationship between density of stray cats in neighborhoods
-and number of rat sightings
+- Analysis of rats by neighborhood
+
+- Analysis of neighborhood rat sightings compared to income level
+
+- Compare income level dataset with rat sighting dataset to assess
+  income to rat
+
+- Compare borough average income to average annual rat sightings
+
+- Design a map comparing neighborhood imcome to rat sightings with
+  latitude and longitude data
+
+- Analysis of population density to rat sightings
+
+- Population density compared to rat sighting density by neighborhood
+
+- Borough population density to average annual rat sightings
+
+- Tentative feral cat colony to rat sighting analysis
+
+- Distribution of feral cat colonies to rat insights
+
+- Aim is to see if a correlation exists between higher cat colony
+  density and lower rat sightings
+
+- Assess the relationship between density of stray cats in neighborhoods
+  and number of rat sightings
