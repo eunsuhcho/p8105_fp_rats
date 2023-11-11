@@ -21,3 +21,14 @@ pervasive nature of the animals, rats are seen daily and have cemented
 themselves as a part of NYC culture. We are aiming to analyze the
 relationship between rat sightings in NYC and features of NYC, including
 population density, income level, and stray cat density.
+
+### Intended final products
+
+*Dashboards of the following: * Rat sighting vs population size by
+neighborhood \* Rat sighting vs income level by neighborhood \* Rat
+density map over years \* Rat vs cat density by neighborhood
+
+### Anticipated data sources
+
+- NYC OpenData - Rat Sightings
+- NYC 2020 Census Data
