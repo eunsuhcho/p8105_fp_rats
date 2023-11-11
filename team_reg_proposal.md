@@ -22,7 +22,7 @@ themselves as a part of NYC culture. We are aiming to analyze the
 relationship between rat sightings in NYC and features of NYC, including
 population density, income level, and stray cat density.
 
-### Intended final products
+### Intended final products1
 
 - Dashboards of the following:
 - Rat sighting vs population size by neighborhood
