@@ -22,7 +22,7 @@ themselves as a part of NYC culture. We are aiming to analyze the
 relationship between rat sightings in NYC and features of NYC, including
 population density, income level, and stray cat density.
 
-### Intended final products1
+### Intended final products
 
 - Dashboards of the following:
 - Rat sighting vs population size by neighborhood
@@ -34,39 +34,55 @@ population density, income level, and stray cat density.
 
 - NYC OpenData - Rat Sightings
 - NYC 2020 Census Data
+- NYC Feral Cat Colony Data (if available, working on obtaining)
 
 ### Planned Analyses
 
 - General rat sighting analyses
-
-- Change in number of rat sightings by year
-
-- Change in average number of rat sightings per month
-
-- Analysis of rats by neighborhood
-
+  - Change in number of rat sightings by year
+  - Change in average number of rat sightings per month
+  - Analysis of rats by neighborhood
 - Analysis of neighborhood rat sightings compared to income level
-
-- Compare income level dataset with rat sighting dataset to assess
-  income to rat
-
-- Compare borough average income to average annual rat sightings
-
-- Design a map comparing neighborhood imcome to rat sightings with
-  latitude and longitude data
-
+  - Compare income level dataset with rat sighting dataset to assess
+    income to rat
+  - Compare borough average income to average annual rat sightings
+  - Design a map comparing neighborhood imcome to rat sightings with
+    latitude and longitude data
 - Analysis of population density to rat sightings
-
-- Population density compared to rat sighting density by neighborhood
-
-- Borough population density to average annual rat sightings
-
+  - Population density compared to rat sighting density by neighborhood
+  - Borough population density to average annual rat sightings
 - Tentative feral cat colony to rat sighting analysis
+  - Distribution of feral cat colonies to rat insights
+  - Aim is to see if a correlation exists between higher cat colony
+    density and lower rat sightings
+  - Assess the relationship between density of stray cats in
+    neighborhoods and number of rat sightings
 
-- Distribution of feral cat colonies to rat insights
+### Visualizations
 
-- Aim is to see if a correlation exists between higher cat colony
-  density and lower rat sightings
+- Mapping latitude/longitude coordinates in a leaflet map to show rat
+  sighting distributions across brough(s) or in combination with outside
+  factors (neighborhood level data?)
+- Box plots to compare monthly and annual averages in analyses for rat
+  sightings compared to borough, population, SES, etc.
+- Bar plots to compare avg annual rat sightings by borough
+- Density plots to show rat sighting and population density (Across all
+  boroughs)
 
-- Assess the relationship between density of stray cats in neighborhoods
-  and number of rat sightings
+### Coding challenges
+
+- Data tidying across datasets, years, neighborhods/boroughs, etc
+- Ensuring all neighborhoods and zip codes are coded correctly
+- Plot reproducibility and readability
+- Keeping datasets tidy through the whole process and careful merging
+  - Determining what variables to merge by
+  - May need to exclude the year 2023 from analysis depending on what is
+    being analyzed as the data for the year is not yet complete, which
+    may skew results
+
+### Proposed Timeline
+
+- Meeting Nov 13-17th
+- Nov 17 - 21: clean data and conduct analysis
+- Nov 27 - Dec 2: develop report, webpage, and screencast
+- Dec 2 - Dec 9: refine and troubleshoot; peer assessments; submission
